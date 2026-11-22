@@ -1,4 +1,4 @@
-# TrackHire — Job Application Tracker
+# JobTrack — Job Application Tracker
 
 A modern, premium job application tracker built for students and job seekers. Track applications, interviews, offers, and analytics in one clean dashboard.
 
